@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981044840392",
+    "project_id": "rayan-26e10",
+    "storage_bucket": "rayan-26e10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981044840392:android:39e74cc25ee7f5693a62fd",
+        "android_client_info": {
+          "package_name": "com.example.rayan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCObH-gmhjuBNojtUPcbS-5-BCU9Z80d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
